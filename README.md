@@ -1,3 +1,3 @@
 # Android Push Notification Example
 **Google Cloud Messaging Sender**
-> Example project for GCM service usage easily.
+> Example project to use GCM service easily.
